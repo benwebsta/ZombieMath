@@ -1,0 +1,7 @@
+sceneSetups:
+- path: C:/Users/Kyle/Documents/2D Platformer Test/Assets/2D Platformer Demo.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Zombie Math.unity
+  isLoaded: 1
+  isActive: 0
